@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aton_7.props" />
+</Project>
